@@ -25,7 +25,7 @@ const Hero = () => {
           </span>
         </h1>
         <p className="text-xl md:text-2xl mb-12 max-w-2xl mx-auto opacity-90">
-          Explore the world's most beautiful destinations with our expertly curated travel experiences
+          Explore the world's most beautiful places with our expertly curated travel experiences
         </p>
 
         {/* Search Bar */}
